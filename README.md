@@ -8,5 +8,5 @@
 
 # Author
 * Chen Sizhe, junior in Shanghai Jiao Tong University in department of Automation
-* Contace me at csz729020210@sjtu.edu.cn
-* Star me it it's useful
+* Contace me at 729020210@qq.com
+* Star me if they are useful
