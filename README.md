@@ -1,4 +1,4 @@
-# SJTU Automation Course Summary in Junior
+# Courses Covered
 * 随动课程设计
 * IT项目管理
 * 计算机控制技术英文
