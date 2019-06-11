@@ -10,6 +10,10 @@
 * 运动控制系统 英文
 * 工程实践与技术创新ⅢF（即将更新）
 
+# jBox Fast Download
+* https://jbox.sjtu.edu.cn/l/FoibpF
+* 密码：2019
+
 # Author
 * Chen Sizhe, junior in Shanghai Jiao Tong University in department of Automation
 * Contace me at 729020210@qq.com
