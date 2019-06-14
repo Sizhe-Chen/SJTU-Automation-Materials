@@ -1,4 +1,5 @@
 # Courses Covered in 2019
+* 模拟电子技术（cheat sheet）
 * 自动控制原理 中文
 * 人工智能理论及应用（cheat sheet）
 * 机器学习与知识发现
