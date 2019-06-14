@@ -1,7 +1,7 @@
 # Courses Covered in 2019
 * 自动控制原理 中文
-* 人工智能理论（cheat sheet）
-* 机器学习
+* 人工智能理论及应用（cheat sheet）
+* 机器学习与知识发现
 * 数据结构 考点
 * 随动系统课程设计 报告
 * IT项目管理 报告
@@ -20,14 +20,8 @@
 * 人工智能项目（https://github.com/AllenChen1998/DoubanCrawler-5.5Mreviews-EmbeddingMatrix-AspectBasedAnalysis-Entity）
 * 人工智能项目拓展（https://github.com/AllenChen1998/Aspect-based-Review-Summary-Generation-with-Diversification）
 * 工程实践与技术创新ⅢF （https://github.com/AllenChen1998/SJTU-3F-Automation）
-* 工程实践与技术创新ⅢF 视频（https://v.qq.com/x/page/c0878t5i907.html）
 * 工程实践与技术创新ⅣE （https://github.com/AllenChen1998/SJTU-4E-Automation）
-* 工程实践与技术创新ⅣE 视频（https://v.qq.com/x/page/k0862ff5vvw.html）
 * 数字图像处理 （即将更新）
-
-# jBox Fast Download
-* https://jbox.sjtu.edu.cn/l/FoibpF
-* 密码：2019
 
 # Author
 * Allen Chen (CSZ)
