@@ -1,8 +1,8 @@
 # Courses
 * 模拟电子技术（cheat sheet）
-* 自动控制原理 中文
 * 人工智能理论及应用（cheat sheet）
 * 机器学习与知识发现
+* 自动控制原理 中文
 * 数据结构 考点
 * 随动系统课程设计 报告
 * IT项目管理 报告
@@ -27,5 +27,5 @@
 # Author
 * Allen Chen (CSZ)
 * 729020210@qq.com
-* Star me if they are useful
-* 2019年课程个人资料
+* 总结资料基于2019年课程
+* 期待你的小星星鼓励
