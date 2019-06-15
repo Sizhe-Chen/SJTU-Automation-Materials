@@ -18,10 +18,10 @@
 * 非线性系统（即将更新）
 
 # Projects
-* 人工智能项目（https://github.com/AllenChen1998/DoubanCrawler-5.5Mreviews-EmbeddingMatrix-AspectBasedAnalysis-Entity）
-* 人工智能项目拓展（https://github.com/AllenChen1998/Aspect-based-Review-Summary-Generation-with-Diversification）
-* 工程实践与技术创新ⅢF （https://github.com/AllenChen1998/SJTU-3F-Automation）
-* 工程实践与技术创新ⅣE （https://github.com/AllenChen1998/SJTU-4E-Automation）
+* 人工智能项目 https://github.com/AllenChen1998/DoubanCrawler-5.5Mreviews-EmbeddingMatrix-AspectBasedAnalysis-Entity
+* 人工智能项目拓展 https://github.com/AllenChen1998/Aspect-based-Review-Summary-Generation-with-Diversification
+* 工程实践与技术创新ⅢF https://github.com/AllenChen1998/SJTU-3F-Automation
+* 工程实践与技术创新ⅣE https://github.com/AllenChen1998/SJTU-4E-Automation
 * 数字图像处理 （即将更新）
 
 # Author
