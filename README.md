@@ -17,8 +17,8 @@
 * 检测技术实验
 
 # 项目
-* [人工智能项目](https://github.com/AllenChen1998/DoubanCrawler-5.5Mreviews-EmbeddingMatrix-AspectBasedAnalysis-Entity)
-* [人工智能项目拓展](https://github.com/AllenChen1998/Aspect-based-Review-Summary-Generation-with-Diversification)
+* [人工智能理论及应用](https://github.com/AllenChen1998/DoubanCrawler-5.5Mreviews-EmbeddingMatrix-AspectBasedAnalysis-Entity)
+* [人工智能理论及应用拓展](https://github.com/AllenChen1998/Aspect-based-Review-Summary-Generation-with-Diversification)
 * [工程实践与技术创新ⅣE](https://github.com/AllenChen1998/SJTU-4E-Automation)
 * [工程实践与技术创新ⅢF](https://github.com/AllenChen1998/SJTU-3F-Automation)
 * 数字图像处理(即将更新)
