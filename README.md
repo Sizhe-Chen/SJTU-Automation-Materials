@@ -21,11 +21,11 @@
 * [人工智能理论及应用拓展](https://github.com/AllenChen1998/Aspect-based-Review-Summary-Generation-with-Diversification)
 * [工程实践与技术创新ⅣE](https://github.com/AllenChen1998/SJTU-4E-Automation)
 * [工程实践与技术创新ⅢF](https://github.com/AllenChen1998/SJTU-3F-Automation)
-* 数字图像处理(即将更新)
+* [数字图像处理](https://github.com/AllenChen1998/SJTU-Digital-Image-Processing)
 
 # 作者
 * Chen Sizhe
-* Zhang Peidong, Mou Tianhao
+* Zhang Peidong, Mou Tianhao, Liu Qiming
 * Xie Jingyu, Xin Minjian, Ye Jianlong, Xie Shuqin
 * 729020210@qq.com
 * 总结资料基于2019年课程
