@@ -24,11 +24,11 @@
 * [工程实践与技术创新ⅣE](https://github.com/AllenChen1998/SJTU-4E-Automation)
 * [工程实践与技术创新ⅢF](https://github.com/AllenChen1998/SJTU-3F-Automation)
 * [数字图像处理](https://github.com/AllenChen1998/SJTU-Digital-Image-Processing)
+* [Python实时查询成绩](https://github.com/AllenChen1998/SJTU-Get-Score-Automatically)
 
 # 作者
 * Chen Sizhe
 * Zhang Peidong, Mou Tianhao, Liu Qiming
-* Xie Jingyu, Xin Minjian, Ye Jianlong, Xie Shuqin
-* 729020210@qq.com
-* 总结资料基于2019年课程
+* csz729020210@sjtu.edu.cn
+* 资料总结基于2020届上海交通大学自动化人工智能方向课程
 * 期待你的小星星鼓励
