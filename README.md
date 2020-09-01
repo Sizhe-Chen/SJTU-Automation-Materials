@@ -29,6 +29,6 @@
 # 作者
 * Chen Sizhe
 * Zhang Peidong, Mou Tianhao, Liu Qiming
-* csz729020210@sjtu.edu.cn
+* sizhe.chen@sjtu.edu.cn
 * 资料总结基于2020届上海交通大学自动化人工智能方向课程
 * 期待你的小星星鼓励
