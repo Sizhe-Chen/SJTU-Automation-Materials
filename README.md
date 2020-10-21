@@ -25,8 +25,7 @@
 * [工程实践与技术创新ⅢF](https://github.com/AllenChen1998/SJTU-3F-Automation)
 
 # 作者
-* Chen Sizhe
-* Zhang Peidong, Mou Tianhao, Liu Qiming
-* sizhe.chen@sjtu.edu.cn
+* Sizhe Chen (sizhe.chen@sjtu.edu.cn)
+* Thanks to Peidong Zhang, Tianhao Mou, Qiming Liu.
 * 资料总结基于2020届上海交通大学自动化人工智能方向课程
 * 期待你的小星星鼓励
