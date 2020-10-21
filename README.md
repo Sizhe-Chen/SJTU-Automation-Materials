@@ -19,12 +19,10 @@
 * 检测技术实验
 
 # 项目
-* [人工智能理论及应用](https://github.com/AllenChen1998/DoubanCrawler-5.5Mreviews-EmbeddingMatrix-AspectBasedAnalysis-Entity)
-* [人工智能理论及应用拓展](https://github.com/AllenChen1998/Aspect-based-Review-Summary-Generation-with-Diversification)
+* [人工智能理论及应用](https://github.com/AllenChen1998/Aspect-based-Review-Summary-Generation-with-Diversification)
+* [数字图像处理](https://github.com/AllenChen1998/SJTU-Digital-Image-Processing)
 * [工程实践与技术创新ⅣE](https://github.com/AllenChen1998/SJTU-4E-Automation)
 * [工程实践与技术创新ⅢF](https://github.com/AllenChen1998/SJTU-3F-Automation)
-* [数字图像处理](https://github.com/AllenChen1998/SJTU-Digital-Image-Processing)
-* [Python实时查询成绩](https://github.com/AllenChen1998/SJTU-Get-Score-Automatically)
 
 # 作者
 * Chen Sizhe
